@@ -1,4 +1,4 @@
-### [RU] Привет всем! 👋 Меня зовут Константин Пашков
+### [RU] Привет всем! 👋 Меня зовут Пашков Константин
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7hLfnrOiTBE1q/giphy.gif" width="300"/>
@@ -26,7 +26,7 @@
 
 
 
-### [EN]  Hi there! 👋 My name is Konstantin Pashkov
+### [EN]  Hi there! 👋 My name is Pashkov Konstantin
 
 - 🌱 At the moment I am continuing to study: <div><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;</div>
 
