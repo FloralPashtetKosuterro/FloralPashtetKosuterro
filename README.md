@@ -27,7 +27,7 @@
 
 </div>
 
-
+<hr>
 
 ### [EN]  Hi there! 👋 My name is Pashkov Konstantin
 
