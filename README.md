@@ -23,7 +23,7 @@
   
   Языки:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloralPashtetKosuterro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloralPashtetKosuterro&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
