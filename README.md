@@ -11,7 +11,7 @@
 
 - 👯 Я хочу сотрудничать с Vann4
   
-- 💬 Спросите меня о создании сайта с помощью фреймворка django
+- 💬 Можете договориться со мной о создании сайта с помощью фреймворка django
   
 - 📫 Связь со мной: hahatun2121@gmail.com
 
@@ -35,7 +35,7 @@
 
 - 👯 I’m looking to collaborate on Vann4
   
-- 💬 Ask me about creation site via django framework
+- 💬 You can agree with me about creating a website using the django framework
   
 - 📫 How to reach me: hahatun2121@gmail.com
 
