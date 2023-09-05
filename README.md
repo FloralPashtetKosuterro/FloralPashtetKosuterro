@@ -13,11 +13,11 @@
 
 <div id="info" align="center">
   
-  Статистика профиля
+  Статистика профиля:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloralPashtetKosuterro&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  Языки
+  Языки:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloralPashtetKosuterro)](https://github.com/anuraghazra/github-readme-stats)
 
